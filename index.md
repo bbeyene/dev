@@ -1,4 +1,4 @@
 ## Bruh Beyene
 ### bbeyene
 
-[projects](https://www.github.com/bbbeyene)
+[projects](https://www.github.com/bbeyene)
